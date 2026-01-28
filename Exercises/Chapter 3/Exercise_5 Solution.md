@@ -1,4 +1,4 @@
-# Exercise 3.5 Solution
+# Exercise 5 Solution
 ## Linear Regression without Intercept
 
 **Problem:** Consider the fitted values from linear regression without an intercept. The ith fitted value takes the form:
