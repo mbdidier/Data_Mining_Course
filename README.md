@@ -87,6 +87,13 @@ To run these notebooks locally:
    pip install jupyter numpy pandas matplotlib seaborn scikit-learn statsmodels ISLP scipy
    ```
 
+   Alternatively, install the pinned packages with:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   **Note:** This repository uses a virtual environment (`venv`). Activate it before installing or launching notebooks so the environment matches. For reproducible setups, use the pinned `requirements.txt` included in the repo.
+
 4. **Launch Jupyter or open in VS Code**:
    ```bash
    jupyter notebook
