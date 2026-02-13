@@ -140,7 +140,7 @@ This repository is for educational purposes. The original ISLP book and its cont
 
 ## 📧 Contact
 
-**Didier Mbonyinshuti**  
+**Mbonyumugenzi Jean Pierre**  
 GitHub: [@mbdidier](https://github.com/mbdidier)
 
 ---
